@@ -3,3 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+  
+}
+/* /* #featuredproperty{
+  margin-right: 100px; */
+
+} */
+figure{
+  padding-left: 700px;
+
+}
+.blue{
+  text-align: center;
+  padding-left: 600px;
+  padding-right: 600px;
+
+}
+figcaption{
+  text-align: center;
+
+}
+img{
+  padding-left: 700px;
+  size: 100px;
+}
+.violet{
+  display:inline-block;
+  text-align: center;
+  padding-left: 100px;
+  margin-left: 300px;
+}
+#details{
+  background-color: red;
+}
